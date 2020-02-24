@@ -1,7 +1,7 @@
 # Information Technology III B
 
 <p align="center">
-<img src="https://github.com/samuelexferri/info-3b/blob/master/images/croce.png" width="400">
+<img src="https://github.com/samuelexferri/info-3b/blob/master/images/croce.png" width="200">
 </p>
 
 Information Technology III B's project
