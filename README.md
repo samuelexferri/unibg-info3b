@@ -4,13 +4,9 @@
 <img src="https://github.com/samuelexferri/info-3b/blob/master/images/croce.png" width="200">
 </p>
 
-Information Technology III B's project
+Information Technology III B project
 
 Pharmacies management site in Django with complete documentation
-
-[samuelexferri.com](https://samuelexferri.com)
-
-[samuelexferri.github.io](https://samuelexferri.github.io)
 
 ![alt text](https://img.shields.io/badge/Language-Italian-infomrmational?style=for-the-badge)
 
