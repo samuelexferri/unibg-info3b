@@ -1,4 +1,4 @@
-# COMMANDS
+# Commands
 
 Command Prompt
 
