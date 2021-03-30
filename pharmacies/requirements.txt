@@ -35,7 +35,7 @@ Pillow==7.0.0
 pyan==0.0.6
 pyan3==1.0.4
 pydotplus==2.0.2
-Pygments==2.5.2
+Pygments==2.7.4
 pylint==2.4.4
 pylint-django==2.0.13
 pylint-plugin-utils==0.6
